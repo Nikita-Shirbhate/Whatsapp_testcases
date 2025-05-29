@@ -1,0 +1,109 @@
+Installation & Registration
+
+1. Install WhatsApp from the App Store/Play Store
+
+   -Verify that the application installs successfully on supported devices.
+
+2. Launch the application post-installation
+
+   -Verify that the app launches without errors.
+
+3. Register with a valid phone number
+
+   -Verify that a verification code is sent and the user can register successfully.
+
+4. Attempt registration with an invalid phone number
+
+   -Verify that the app displays an appropriate error message.
+
+5. Enter incorrect verification code multiple times
+
+   -Verify that the app limits the number of attempts and provides relevant feedback.
+
+Messaging Functionality
+
+6. Send a text message to a contact
+
+   -Verify that the message is sent and delivered successfully.
+
+7. Receive a text message from a contact
+
+   -Verify that incoming messages are received and displayed correctly.
+
+8. Send a message without an internet connection
+
+   -Verify that the message is queued and sent once the connection is restored.
+
+9. Attempt to send a message to a non-existent contact
+
+   -Verify that the app handles the scenario gracefully.
+
+10. Delete a sent message
+
+    -Verify that the message is deleted from both sender and receiver ends if within the allowed time frame.
+
+Media Sharing
+
+11. Send an image to a contact
+
+    -Verify that the image is sent and received without quality loss.
+
+12. Send a video file
+
+    -Verify that the video is sent, received, and playable.
+
+13. Attempt to send a file exceeding the size limit
+
+    -Verify that the app prevents the action and displays an appropriate message.
+
+14. Share a contact from the address book
+
+    -Verify that the contact information is shared correctly.
+
+15. Send a location
+
+    -Verify that the recipient receives the accurate location details.
+
+Voice & Video Calls
+
+16. Initiate a voice call to a contact
+
+    -Verify that the call connects and audio is clear.
+
+17. Receive an incoming voice call
+
+    -Verify that the call notification appears and can be answered.
+
+18. Initiate a video call
+
+    -Verify that both video and audio function correctly during the call.
+
+19. Switch from a voice call to a video call
+
+    -Verify that the transition is smooth and both parties are notified.
+
+20. Handle an incoming call while on another call
+
+    -Verify that the app provides options to hold, end, or merge calls appropriately.
+
+Security & Privacy
+
+21. Enable two-step verification
+
+    -Verify that the feature activates and requires a PIN for future logins.
+
+22. Block a contact
+
+    -Verify that the blocked contact cannot send messages or see status updates.
+
+23. Change privacy settings for last seen, profile photo, and status
+
+    -Verify that the changes reflect accurately for different contacts.
+
+24. Logout from WhatsApp Web
+
+    -Verify that the session ends and requires re-authentication.
+
+25. Attempt to access WhatsApp after multiple failed login attempts
+
+    -Verify that the app enforces security measures like temporary lockout.
